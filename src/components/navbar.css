@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    background-color: #F55A5A;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+    align-content: center;
+    padding: 50px;
+    border-radius: 5px;
+}
+.logo-img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    align-self: center;
+}
+
+.navbar > p {
+    font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+}
